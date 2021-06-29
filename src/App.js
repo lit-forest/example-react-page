@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Testing publish function for react example.
+          Testing publish function for react example. and edit the source code.
         </p>
 
       </header>
